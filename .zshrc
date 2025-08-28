@@ -1,0 +1,9 @@
+plugins=(
+  aws
+  direnv
+  docker
+  docker-compose
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+)
