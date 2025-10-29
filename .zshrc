@@ -1,6 +1,5 @@
 plugins=(
   aws
-  direnv
   docker
   docker-compose
   git
